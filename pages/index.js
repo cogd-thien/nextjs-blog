@@ -15,8 +15,7 @@ function Home({ allPostsData }) {
 			<section className={utilStyles.headingMd}>
 				<p>Hello i'm Cogd. I'm a web developer nextJS</p>
 				<p>
-					(This is a git command which will use nextJS for
-					implementation - you’ll be building a site like this on{' '}
+					(This is a git command which will use nextJS{' '}
 					<a href='https://nextjs.org/learn'>our Next.js tutorial</a>
 					.)
 				</p>
