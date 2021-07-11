@@ -13,7 +13,7 @@ function Home({ allPostsData }) {
 				<title>{siteTitle}</title>
 			</Head>
 			<section className={utilStyles.headingMd}>
-				<p>Hello i'm Brian Pick. I'm a web developer</p>
+				<p>Hello i'm Cogd. I'm a web developer</p>
 				<p>
 					(This is a sample website - you’ll be building a site like
 					this on{' '}
